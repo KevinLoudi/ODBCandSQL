@@ -2,7 +2,7 @@
   Author: Kevin
   Propose: Learn basic SQL method on MySQL
   Date: 13th, Oct, 2016
-  small 
+  small small
 */
 
 CREATE SCHEMA `dbstation` ;
